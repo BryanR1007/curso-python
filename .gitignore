@@ -1,0 +1,4 @@
+#para omitir un archivo dentro una carpeta, ejemplo: venv/Scripts/Activate.ps1
+#para omitir todo 
+venv  
+.idea
