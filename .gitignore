@@ -1,4 +1,4 @@
-#para omitir un archivo dentro una carpeta, ejemplo: venv/Scripts/Activate.ps1
-#para omitir todo 
+#para omitir un archivo dentro una carpeta, ejemplo: venv/Scripts/Activate.ps1 o venv/archivo.py
+#para omitir todo **.py o rela**.py
 venv  
 .idea
